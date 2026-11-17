@@ -1,0 +1,245 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'display_project:uui_6|divcntr'
+Slack : -7.605
+TNS   : -2190.075
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -6.204
+TNS   : -55.806
+
+Type  : Slow 1100mV 85C Model Setup 'send_data'
+Slack : -6.004
+TNS   : -29.027
+
+Type  : Slow 1100mV 85C Model Setup 'inp'
+Slack : -3.535
+TNS   : -22.435
+
+Type  : Slow 1100mV 85C Model Setup 'clk_50m'
+Slack : -2.551
+TNS   : -2.551
+
+Type  : Slow 1100mV 85C Model Hold 'display_project:uui_6|divcntr'
+Slack : 0.282
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clk_50m'
+Slack : 0.886
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'inp'
+Slack : 1.056
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'send_data'
+Slack : 1.153
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk_50m'
+Slack : -0.522
+TNS   : -0.916
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'display_project:uui_6|divcntr'
+Slack : -0.394
+TNS   : -198.128
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -6.321
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'inp'
+Slack : 0.010
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'send_data'
+Slack : 0.064
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'display_project:uui_6|divcntr'
+Slack : -7.618
+TNS   : -2136.287
+
+Type  : Slow 1100mV 0C Model Setup 'send_data'
+Slack : -6.078
+TNS   : -29.013
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -5.716
+TNS   : -51.414
+
+Type  : Slow 1100mV 0C Model Setup 'inp'
+Slack : -3.465
+TNS   : -22.761
+
+Type  : Slow 1100mV 0C Model Setup 'clk_50m'
+Slack : -2.361
+TNS   : -2.361
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : 0.268
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'display_project:uui_6|divcntr'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clk_50m'
+Slack : 0.743
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'inp'
+Slack : 0.989
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'send_data'
+Slack : 1.104
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk_50m'
+Slack : -0.527
+TNS   : -0.921
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'display_project:uui_6|divcntr'
+Slack : -0.394
+TNS   : -187.962
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.394
+TNS   : -5.850
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'inp'
+Slack : -0.022
+TNS   : -0.022
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'send_data'
+Slack : 0.045
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -4.502
+TNS   : -40.512
+
+Type  : Fast 1100mV 85C Model Setup 'display_project:uui_6|divcntr'
+Slack : -4.185
+TNS   : -1222.856
+
+Type  : Fast 1100mV 85C Model Setup 'send_data'
+Slack : -2.642
+TNS   : -12.889
+
+Type  : Fast 1100mV 85C Model Setup 'clk_50m'
+Slack : -1.917
+TNS   : -1.917
+
+Type  : Fast 1100mV 85C Model Setup 'inp'
+Slack : -1.619
+TNS   : -9.237
+
+Type  : Fast 1100mV 85C Model Hold 'display_project:uui_6|divcntr'
+Slack : 0.122
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'inp'
+Slack : 0.465
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'send_data'
+Slack : 0.470
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clk_50m'
+Slack : 0.828
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk_50m'
+Slack : -0.517
+TNS   : -0.685
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.343
+TNS   : -3.266
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'send_data'
+Slack : -0.215
+TNS   : -2.157
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'inp'
+Slack : -0.200
+TNS   : -2.444
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'display_project:uui_6|divcntr'
+Slack : -0.072
+TNS   : -3.269
+
+Type  : Fast 1100mV 0C Model Setup 'display_project:uui_6|divcntr'
+Slack : -3.893
+TNS   : -1125.355
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -3.804
+TNS   : -34.230
+
+Type  : Fast 1100mV 0C Model Setup 'send_data'
+Slack : -2.599
+TNS   : -12.555
+
+Type  : Fast 1100mV 0C Model Setup 'clk_50m'
+Slack : -1.542
+TNS   : -1.542
+
+Type  : Fast 1100mV 0C Model Setup 'inp'
+Slack : -1.376
+TNS   : -8.039
+
+Type  : Fast 1100mV 0C Model Hold 'display_project:uui_6|divcntr'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : 0.158
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'inp'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'send_data'
+Slack : 0.505
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clk_50m'
+Slack : 0.520
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk_50m'
+Slack : -0.496
+TNS   : -0.651
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.324
+TNS   : -3.076
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'send_data'
+Slack : -0.196
+TNS   : -1.985
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'inp'
+Slack : -0.191
+TNS   : -2.265
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'display_project:uui_6|divcntr'
+Slack : -0.041
+TNS   : -0.786
+
+------------------------------------------------------------

@@ -1,0 +1,265 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "count[0]",
+					"strict" : false
+				},
+				{
+					"name" : "count[1]",
+					"strict" : false
+				},
+				{
+					"name" : "count[2]",
+					"strict" : false
+				},
+				{
+					"name" : "count[3]",
+					"strict" : false
+				},
+				{
+					"name" : "divcntr",
+					"strict" : false
+				},
+				{
+					"name" : "led[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg_out_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blank",
+					"strict" : false
+				},
+				{
+					"name" : "vga_c_sync",
+					"strict" : false
+				},
+				{
+					"name" : "vga_h_sync",
+					"strict" : false
+				},
+				{
+					"name" : "vga_v_sync",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_red[7]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_green[7]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_blue[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "data_in",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "send_data",
+					"strict" : false
+				},
+				{
+					"name" : "clk_50m",
+					"strict" : false
+				},
+				{
+					"name" : "vga_rst",
+					"strict" : false
+				},
+				{
+					"name" : "inp",
+					"strict" : false
+				},
+				{
+					"name" : "high",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
